@@ -1,0 +1,401 @@
+,Job Role Title,Skill Set Needed
+0,PPC Executive,"['Production Planning Control Executive', 'PPC Executive']"
+1,System Administrator,"['Hadoop', 'Apache', 'Ubuntu', 'NAGIOS', 'SSH', 'AWS', 'Linux Administration', 'Redhat', 'MySQL']"
+2,Web Developer,"['CSS', 'Front-end frameworks (e.g., React)']"
+3,IT Security Auditor,['Information Security Audit']
+4,US Staffing Specialist,"['US Staffing', 'Client Acquisition']"
+5,IT Deployment Specialist,"['Linux Administration', 'Cloud', 'Configuration', 'Google Application Deployment']"
+6,Digital Marketing Specialist,"['Targeting', 'CRM', 'Marketing Strategy']"
+7,Technical Project Manager,"['Resource management', 'Project planning', 'Agile methodologies']"
+8,Front Office Coordinator,"['Guest Relation Executive', 'Front Office Executive']"
+9,Grass GIS Specialist,['GRASS GIS']
+10,Assistant Manager,"['AM PED', 'Team Leader PED', 'Senior Executive PED']"
+11,Business Growth Manager,"['Key Account Management', 'Business Development', 'Marketing Operations', 'Region', 'Business Growth', 'Sales Management']"
+12,IT Support Specialist,"['IIS', 'WCF', 'Javascript', 'JSON', 'C#', 'MSBuild', 'Classic ASP', 'JQuery']"
+13,Business Growth Manager,"['Key Account Management', 'Business Development', 'Marketing Operations', 'Sales Management', 'Region', 'Business Growth']"
+14,Customer Support,['Customer Care']
+15,X-Ray Technician,"['USG', 'Typist', 'X-Ray', 'Ultrasound', 'MRI']"
+16,Pharmaceuticals Expert,"['Pellets', 'Solid Oral Dosage', 'Tablets']"
+17,IT Deployment Specialist,['Networking']
+18,UI/UX Developer,"['JavaScript', 'J2EE']"
+19,Training Coordinator,"['CSR', 'Training Management', 'Policies', 'Publicity', 'Recruitment']"
+20,Finance Analyst,['Finance and Tax']
+21,IT Deployment Specialist,"['Linux Administration', 'Networking', 'Cloud']"
+22,System Administrator,"['AWS', 'Apache', 'MySQL', 'SSH', 'Linux Administration', 'Hadoop', 'Ubuntu']"
+23,Technical Project Manager,"['Project planning', 'Agile methodologies', 'Resource management']"
+24,Quality Assurance Specialist,"['Product Quality', 'Quality Assurance', 'QMS', 'Marketing', 'ISO 9001', 'Process Audit', 'Quality Engineering']"
+25,HR Business Partner,['HRBP']
+26,Front Office Coordinator,"['Receptionist', 'Guest Relation Executive', 'Front Office Executive', 'FOE']"
+27,Gas Turbine Engineer,['Gas Turbine']
+28,Grass GIS Specialist,['GRASS GIS']
+29,Web Developer,"['CSS', 'JavaScript', 'HTML']"
+30,Primary School Teacher,"['Science', 'Teaching', 'Mathematics']"
+31,Primary School Teacher,"['Primary Teacher', 'Teaching']"
+32,Front Office Coordinator,"['Front Office Executive', 'FOE', 'Receptionist', 'Front Desk Executive']"
+33,System Administrator,"['SSH', 'Hadoop', 'Ubuntu', 'NAGIOS', 'Redhat']"
+34,Java Developer,"['Projects', 'Good Communication Skills', 'Experience', 'Java', 'PL/SQL']"
+35,OpenText Specialist,"['Purchase Orders', 'SAP_ALV', 'Invoice Management', 'DAM', 'Media Management', 'Digital Media', 'SAP Workflow', 'OpenText']"
+36,PPC Executive,['Production Planning Control Executive']
+37,Web Developer,"['CSS', 'Front-end frameworks (e.g., React)']"
+38,X-Ray Technician,"['X-Ray', 'MRI', 'USG', 'Typist', 'Ultrasound']"
+39,Bloomberg Terminal Specialist,['Bloomberg Terminal']
+40,IT Deployment Specialist,['Office 365 Migration']
+41,OpenText Specialist,"['Media Management', 'SAP_ALV', 'OpenText', 'Digital Media', 'Purchase Orders', 'SAP Workflow']"
+42,Recruitment Specialist,['US Recruitment']
+43,Electrical Technician,"['ITI', 'ITI Fitter', 'Industrial Training Institute', 'Electrician']"
+44,Data Scientist,"['Statistics', 'Data analysis']"
+45,Grass GIS Specialist,['GRASS GIS']
+46,Electrical Technician,"['Diploma', 'ITI Electrical', 'Fitter', 'ITI Fitter', 'ITI', 'Industrial Training Institute', 'Electrician']"
+47,X-Ray Technician,"['Typist', 'MRI']"
+48,Bloomberg Terminal Specialist,['Bloomberg Terminal']
+49,Regional Sales Manager,"['Events', 'Brand Building', 'Strategy', 'CRM', 'Agency Management', 'PR']"
+50,Medical Coder,"['Nursing Jobs', 'Pharma Jobs', 'Biotechnology Jobs', 'Biochemistry Jobs', 'Medical Coder']"
+51,IT Deployment Specialist,"['Configuration', 'Google Application Deployment', 'Networking', 'Office 365 Migration', 'Cloud']"
+52,Pre Acquisition Analyst,"['Credit Underwriting', 'Credit Risk', 'Risk', 'Credit Policies', 'Pre Acquisition']"
+53,Company Secretary,['Company Secretary']
+54,Recruitment Specialist,"['US IT Staffing', 'US IT Recruitment', 'US Recruitment']"
+55,IT Support Specialist,"['MSBuild', 'JQuery', 'Classic ASP', 'MS SQL Server', 'ASP.Net', 'Javascript', 'JSON', 'IIS', 'WCF', 'C#']"
+56,Customer Care Executive,['Communication Skills']
+57,Assistant Manager,"['Assistant Manager PED', 'Team Leader PED', 'Senior Executive PED', 'Team Manager PED']"
+58,IT Support Specialist,"['JSON', 'WCF', 'Classic ASP', 'Javascript', 'MS SQL Server', 'JQuery', 'ASP.Net']"
+59,VP of Engineering,"['Data Structures', 'Technical Solutions']"
+60,HR Business Partner,"['HR Business Partner', 'HRBP']"
+61,Pre Acquisition Analyst,"['Pre Acquisition', 'Risk', 'Credit Underwriting', 'Credit Policies', 'Credit Risk']"
+62,IT Support Specialist,"['MS SQL Server', 'MSBuild', 'Classic ASP', 'Javascript', 'ASP.Net', 'JSON', 'WCF', 'JQuery', 'IIS']"
+63,Training Coordinator,"['CSR', 'Training Management', 'Policies']"
+64,Software Engineer,"['P&R', 'Timing Closure', 'ICC', 'Innovus', 'SoC Encounter', 'RTL Compiler', 'Physical Design', 'IR Drop', 'Prime Time']"
+65,Java Developer,"['Implementation', 'PL/SQL', 'Good Communication Skills', 'Support', 'Experience']"
+66,VP of Engineering,['Technical Solutions']
+67,Finance Analyst,['Finance and Tax']
+68,HR Business Partner,"['HR Business Partner', 'HRBP', 'HR Generalist Activities']"
+69,Network Administrator,['DHCP']
+70,Taxation Specialist,"['Indian GAAP', 'Transfer Pricing Manager', 'Chartered Accountant', 'Accounting Standards', 'International Taxation']"
+71,Software Engineer,"['Programming (e.g., Python, Java, C++)', 'Problem-solving', 'Algorithms']"
+72,Java Developer,"['J2EE', 'Travel', 'Coding', 'Merchandising']"
+73,Taxation Specialist,"['Indian GAAP', 'International Taxation', 'Accounting Standards', 'Transfer Pricing Manager']"
+74,Tele-Marketer,['Call Center']
+75,Medical Coder,"['Biotechnology Jobs', 'Medical Coding Jobs', 'Nursing Jobs', 'Medical Coder']"
+76,Finance Application Designer,"['Data Design', 'Banking Application', 'Data Governance', 'Finance Module', 'Financial Implementation']"
+77,Bloomberg Terminal Specialist,['Bloomberg Terminal']
+78,US Staffing Specialist,['US Staffing']
+79,X-Ray Technician,"['X-Ray', 'Typist']"
+80,OpenText Specialist,"['SAP Workflow', 'SAP_ALV', 'Digital Media']"
+81,Technical Project Manager,"['Resource management', 'Project planning', 'Agile methodologies']"
+82,Assistant Manager,"['Team Manager PED', 'Assistant Manager PED', 'AM PED']"
+83,Grass GIS Specialist,['GRASS GIS']
+84,Training Coordinator,"['Policies', 'Training Management', 'Recruitment', 'CSR', 'Publicity']"
+85,Quality Assurance Specialist,"['ISO 9001', 'Auditing', 'Quality Engineering', 'QMS', 'Process Audit', 'Quality Assurance']"
+86,Pre Acquisition Analyst,"['Credit Policies', 'Pre Acquisition', 'Credit Risk', 'Risk']"
+87,Software Engineer,"['Algorithms', 'Programming (e.g., Python, Java, C++)', 'Problem-solving']"
+88,Data Scientist,"['Machine learning', 'Data analysis']"
+89,Electrical Technician,['Diploma']
+90,Recruitment Specialist,"['US Recruitment', 'US IT Staffing', 'US IT Recruitment']"
+91,Technical Project Manager,"['Agile methodologies', 'Project planning']"
+92,Application Support Manager,['Application Support Delivery Manager']
+93,Grass GIS Specialist,['GRASS GIS']
+94,System Administrator,"['Hadoop', 'AWS', 'MySQL', 'NAGIOS', 'Redhat', 'Ubuntu', 'Apache', 'SSH']"
+95,Finance Analyst,['Finance and Tax']
+96,VP of Engineering,"['VP Engineering', 'Algorithm', 'Technical Solutions', 'Data Structures']"
+97,Quality Assurance Specialist,"['QMS', 'Product Quality']"
+98,VP of Engineering,"['Data Structures', 'Technical Solutions', 'VP Engineering']"
+99,Digital Marketing Specialist,"['CRM', 'Targeting']"
+100,IT Security Auditor,"['ITGC', 'IT Audit', 'Cyber Security', 'CISA', 'IT Risk', 'System Audit', 'Information Security Audit']"
+101,Quality Assurance Specialist,['Process Audit']
+102,Front Office Coordinator,"['Front Desk Executive', 'Front Office Executive']"
+103,US Staffing Specialist,['US Staffing']
+104,IT Support Specialist,"['WCF', 'C#', 'MS SQL Server', 'Classic ASP', 'IIS', 'MSBuild']"
+105,IT Support Analyst,"['Monitoring', 'Positive Attitude', 'Willingness to Learn']"
+106,Company Secretary,['Company Secretary']
+107,Regional Sales Manager,"['CRM', 'Marketing Support', 'Brand Building']"
+108,Data Scientist,"['Machine learning', 'Statistics', 'Data analysis']"
+109,Network Administrator,"['L2', 'Solaris', 'SAN']"
+110,OpenText Specialist,"['Digital Media', 'Purchase Orders', 'Invoice Management', 'OpenText', 'SAP Workflow', 'DAM']"
+111,Finance Analyst,['Finance and Tax']
+112,Software Engineer,"['Problem-solving', 'Programming (e.g., Python, Java, C++)']"
+113,Network Administrator,"['DHCP', 'Solaris', 'DNS', 'UNIX', 'Configuration']"
+114,Application Support Manager,['Application Support Delivery Manager']
+115,Data Scientist,['Data analysis']
+116,UI/UX Developer,"['User Interface', 'JavaScript', 'XML', 'JSP', 'J2EE', 'JSON', 'UI Design', 'HTML', 'Java']"
+117,IT Support Analyst,"['Monitoring', 'SQL', 'UNIX', 'Night Shifts']"
+118,Recruitment Specialist,"['US IT Recruitment', 'US Recruitment']"
+119,Recruitment Specialist,"['US IT Staffing', 'US IT Recruitment', 'US Recruitment']"
+120,System Administrator,"['Linux Administration', 'Hadoop', 'Ubuntu', 'SSH', 'NAGIOS', 'AWS']"
+121,IT Security Auditor,"['Cyber Security', 'ITGC', 'System Audit', 'IT Audit']"
+122,Finance Analyst,['Finance and Tax']
+123,VP of Engineering,"['Data Structures', 'Algorithm', 'VP Engineering']"
+124,Web Developer,"['Ruby', 'AngularJS', 'Ruby on Rails', 'Rails']"
+125,Training Coordinator,"['Training Management', 'Policies', 'CSR']"
+126,Gas Turbine Engineer,"['Gas Turbine', 'Manufacturing Engineering']"
+127,Primary School Teacher,"['Teaching', 'Mathematics']"
+128,Business Growth Manager,"['Business Development', 'Sales Management', 'Region', 'Business Growth', 'Marketing Operations', 'Key Account Management']"
+129,Oracle Database Administrator,"['Software Development', 'Oracle Development', 'MySQL Server', 'Technical Specifications']"
+130,Customer Support,"['Customer Executive', 'Customer Support', 'Customer Care']"
+131,Network Administrator,"['Configuration', 'NAS', 'UNIX', 'DNS', 'SAN', 'WAN', 'Solaris', 'DHCP']"
+132,UI/UX Developer,"['HTML', 'JSP', 'Java', 'UI Design', 'J2EE', 'XML']"
+133,Data Scientist,['Statistics']
+134,Data Scientist,"['Machine learning', 'Statistics']"
+135,Recruitment Specialist,"['US Recruitment', 'US IT Recruitment', 'US IT Staffing']"
+136,X-Ray Technician,['Ultrasound']
+137,IT Deployment Specialist,"['Google Application Deployment', 'Networking', 'Cloud', 'Configuration']"
+138,Finance Analyst,['Finance and Tax']
+139,IT Analyst,"['Treasury', 'Forex']"
+140,IT Support Specialist,"['MS SQL Server', 'ASP.Net', 'C#', 'JSON', 'IIS', 'WCF', 'Classic ASP', 'Javascript', 'MSBuild', 'JQuery']"
+141,OpenText Specialist,"['Purchase Orders', 'Digital Media', 'SAP_ALV', 'Invoice Management', 'Media Management', 'SAP Workflow']"
+142,Sales Manager,"['Sales Manager', 'Sales']"
+143,Data Scientist,"['Statistics', 'Machine learning']"
+144,Software Engineer,"['Programming (e.g., Python, Java, C++)', 'Problem-solving', 'Algorithms']"
+145,Medical Coder,['Biotechnology Jobs']
+146,Sales Manager,"['Sales', 'Business Development', 'Sales Manager']"
+147,Regional Sales Manager,"['CRM', 'Marketing Support', 'Strategy', 'Brand Building', 'Events', 'Agency Management', 'Regional Sales', 'PR']"
+148,Java Developer,"['Travel', 'HTML', 'Content Management', 'Merchandising']"
+149,Tele-Marketer,"['Call Center', 'Tele-Sales', 'Tele-Marketing']"
+150,Sales Manager,"['Sales', 'Products', 'Business Development']"
+151,Pharmaceuticals Expert,"['NDDS', 'Capsule', 'Team Handling', 'Pellets', 'Solid Oral Dosage']"
+152,IT Support Analyst,"['Monitoring', 'Excellent Communication Skills', 'Night Shifts', 'Management', 'SQL', 'Positive Attitude']"
+153,Regional Sales Manager,"['CRM', 'Strategy', 'Marketing Support', 'PR', 'Regional Sales', 'Brand Building']"
+154,Electrical Technician,"['Electrician', 'Industrial Training Institute', 'ITI Fitter', 'Diploma', 'Fitter', 'ITI', 'ITI Electrical']"
+155,Quality Assurance Specialist,"['Product Quality', 'Marketing', 'QMS', 'Quality Assurance', 'ISO 9001', 'Quality Engineering', 'Process Audit', 'Auditing']"
+156,Pre Acquisition Analyst,"['Credit Underwriting', 'Credit Policies', 'Pre Acquisition', 'Credit Risk']"
+157,HR Business Partner,['HR Business Partner']
+158,Software Engineer,['Physical Design']
+159,Recruitment Specialist,['US IT Staffing']
+160,IT Analyst,"['FX', 'Treasury', 'Forex']"
+161,Quality Assurance Specialist,"['Quality Assurance', 'QMS', 'Auditing', 'Quality Engineering', 'Product Quality']"
+162,Company Secretary,['Company Secretary']
+163,Finance Analyst,['Finance and Tax']
+164,Customer Care Executive,"['CSE', 'BPO', 'Hiring', 'Customer Care', 'Voice Process', 'Interviewing', 'Inbound']"
+165,Sales Representative,"['Selling Skills', 'Mass Mailing', 'Sales']"
+166,Finance Application Designer,['Banking Application']
+167,Web Developer,['Ruby on Rails']
+168,Web Developer,"['CSS', 'HTML', 'JavaScript']"
+169,Oracle Database Administrator,"['Oracle Database 9i', 'Oracle Development', 'Technical Specifications', 'MySQL Server', 'Software Development']"
+170,Tele-Marketer,['Tele-Marketing']
+171,US Staffing Specialist,['US Staffing']
+172,Tele-Marketer,"['Tele-Marketing', 'Telemarketing', 'Call Center']"
+173,Sales Representative,"['Life Insurance', 'Selling Skills']"
+174,IT Security Auditor,"['Cyber Security', 'IT Risk']"
+175,Recruitment Specialist,"['US Recruitment', 'US IT Recruitment', 'US IT Staffing']"
+176,Web Developer,"['Ruby on Rails', 'Ruby', 'Rails', 'AngularJS']"
+177,Java Developer,"['Good Communication Skills', 'PL/SQL', 'Experience', 'Implementation', 'Consultant', 'Java', 'Support']"
+178,Taxation Specialist,"['Chartered Accountant', 'Accounting Standards', 'International Taxation', 'Indian GAAP']"
+179,IT Deployment Specialist,['Configuration']
+180,Finance Application Designer,"['Data Design', 'Financial Implementation', 'Finance Module', 'Banking Application']"
+181,IT Analyst,['FX']
+182,Bloomberg Terminal Specialist,['Bloomberg Terminal']
+183,Data Scientist,"['Statistics', 'Machine learning']"
+184,Pharmaceuticals Expert,"['NDDS', 'Team Handling', 'Solid Oral Dosage', 'Pellets', 'Capsule', 'Tablets']"
+185,VP of Engineering,"['Algorithm', 'Technical Solutions', 'VP Engineering']"
+186,Electrical Technician,"['Electrician', 'ITI', 'Fitter', 'Diploma', 'ITI Electrical']"
+187,Digital Marketing Specialist,"['Data Strategy', 'Web Analytics', 'CRM', 'Web Technologies', 'Targeting', 'Marketing Strategy']"
+188,Application Support Manager,['Application Support Delivery Manager']
+189,Pre Acquisition Analyst,"['Pre Acquisition', 'Credit Policies', 'Credit Underwriting', 'Credit Risk']"
+190,Sales Representative,"['Selling Skills', 'Direct Marketing', 'Life Insurance', 'Mass Mailing']"
+191,UI/UX Developer,['Java']
+192,Oracle Database Administrator,"['MySQL Server', 'Oracle Development', 'Oracle Database 9i']"
+193,Quality Assurance Specialist,['ISO 9001']
+194,Taxation Specialist,"['Indian GAAP', 'Transfer Pricing Manager', 'International Taxation']"
+195,Pre Acquisition Analyst,['Credit Risk']
+196,Primary School Teacher,['Science']
+197,Recruitment Specialist,['US IT Recruitment']
+198,Technical Project Manager,"['Project planning', 'Agile methodologies']"
+199,Training Coordinator,['Publicity']
+200,Software Engineer,"['Programming (e.g., Python, Java, C++)']"
+201,Java Developer,"['Good Communication Skills', 'Implementation', 'Consultant', 'Support']"
+202,IT Deployment Specialist,"['Cloud', 'Google Application Deployment', 'Office 365 Migration', 'Linux Administration', 'Networking']"
+203,Medical Coder,"['Biochemistry Jobs', 'Biotechnology Jobs']"
+204,Sales Representative,"['Life Insurance', 'Direct Marketing', 'Mass Mailing']"
+205,IT Analyst,"['FX', 'Treasury']"
+206,Pre Acquisition Analyst,"['Credit Underwriting', 'Credit Risk', 'Pre Acquisition']"
+207,IT Deployment Specialist,"['Networking', 'Google Application Deployment', 'Office 365 Migration']"
+208,Front Office Coordinator,"['Front Office Executive', 'Front Desk Executive', 'Receptionist']"
+209,Sales Manager,"['Products', 'Sales', 'Sales Manager']"
+210,Pre Acquisition Analyst,['Credit Policies']
+211,Gas Turbine Engineer,"['Manufacturing Engineering', 'Gas Turbine']"
+212,Application Support Manager,['Application Support Delivery Manager']
+213,Sales Representative,"['Life Insurance', 'Sales', 'Mass Mailing']"
+214,Tele-Marketer,"['Telemarketing', 'Tele-Sales']"
+215,Taxation Specialist,"['Accounting Standards', 'Indian GAAP', 'Chartered Accountant']"
+216,Business Growth Manager,"['Business Growth', 'Region', 'Business Development', 'Marketing Operations', 'Key Account Management']"
+217,Grass GIS Specialist,['GRASS GIS']
+218,US Staffing Specialist,['Client Acquisition']
+219,VP of Engineering,"['VP Engineering', 'Data Structures', 'Algorithm', 'Technical Solutions']"
+220,Assistant Manager,"['Team Manager PED', 'Senior Executive PED', 'Team Leader PED']"
+221,Software Engineer,"['Programming (e.g., Python, Java, C++)']"
+222,US Staffing Specialist,['US Staffing']
+223,Medical Coder,"['Biochemistry Jobs', 'Medical Coding Jobs']"
+224,Software Engineer,['RTL Compiler']
+225,Bloomberg Terminal Specialist,['Bloomberg Terminal']
+226,Assistant Manager,"['Senior Executive PED', 'Team Leader PED']"
+227,Java Developer,"['Support', 'Projects', 'Java', 'Consultant', 'PL/SQL', 'Implementation']"
+228,Pharmaceuticals Expert,"['Capsule', 'Tablets', 'Solid Oral Dosage', 'Team Handling', 'NDDS', 'Pellets']"
+229,Customer Support,['Customer Support']
+230,Web Developer,"['Ruby', 'AngularJS', 'Ruby on Rails', 'Rails']"
+231,Grass GIS Specialist,['GRASS GIS']
+232,Software Engineer,"['Problem-solving', 'Programming (e.g., Python, Java, C++)', 'Algorithms']"
+233,Software Engineer,['Problem-solving']
+234,Application Support Manager,['Application Support Delivery Manager']
+235,HR Business Partner,"['HR Generalist Activities', 'HRBP', 'HR Business Partner']"
+236,IT Deployment Specialist,"['Cloud', 'Office 365 Migration']"
+237,IT Deployment Specialist,"['Linux Administration', 'Google Application Deployment', 'Office 365 Migration']"
+238,IT Support Analyst,"['Willingness to Learn', 'Night Shifts', 'Excellent Communication Skills', 'Positive Attitude']"
+239,Technical Project Manager,"['Agile methodologies', 'Resource management']"
+240,X-Ray Technician,['MRI']
+241,Software Engineer,"['Programming (e.g., Python, Java, C++)']"
+242,Network Administrator,['Configuration']
+243,Pharmaceuticals Expert,"['Solid Oral Dosage', 'Team Handling']"
+244,Customer Care Executive,"['Communication Skills', 'Customer Care', 'Hiring', 'Interviewing', 'Voice Process', 'Outbound', 'CSE', 'BPO', 'Inbound']"
+245,Quality Assurance Specialist,"['ISO 9001', 'Product Quality', 'Marketing', 'Quality Engineering', 'QMS']"
+246,Taxation Specialist,"['Chartered Accountant', 'Accounting Standards', 'Indian GAAP']"
+247,Medical Coder,"['Medical Coder', 'Medical Coding Jobs', 'Biotechnology Jobs']"
+248,Grass GIS Specialist,['GRASS GIS']
+249,Front Office Coordinator,['Guest Relation Executive']
+250,IT Security Auditor,['ITGC']
+251,Assistant Manager,"['Senior Executive PED', 'Team Leader PED', 'Team Manager PED', 'AM PED']"
+252,Software Engineer,"['SoC Encounter', 'Innovus', 'P&R']"
+253,Pre Acquisition Analyst,['Pre Acquisition']
+254,Network Administrator,"['Troubleshooting', 'L2']"
+255,Front Office Coordinator,['Front Desk Executive']
+256,Medical Coder,"['Pharma Jobs', 'Biotechnology Jobs', 'Nursing Jobs', 'Medical Coding Jobs']"
+257,Assistant Manager,"['Assistant Manager PED', 'Team Manager PED', 'Senior Executive PED', 'Team Leader PED']"
+258,System Administrator,"['Linux Administration', 'NAGIOS']"
+259,Bloomberg Terminal Specialist,['Bloomberg Terminal']
+260,HR Business Partner,"['HR Business Partner', 'HRBP', 'HR Generalist Activities']"
+261,Application Support Manager,['Application Support Delivery Manager']
+262,Medical Coder,"['Medical Coder', 'Biochemistry Jobs']"
+263,Digital Marketing Specialist,['Web Technologies']
+264,Gas Turbine Engineer,"['Gas Turbine', 'Manufacturing Engineering']"
+265,Oracle Database Administrator,['MySQL Server']
+266,Pre Acquisition Analyst,"['Credit Underwriting', 'Credit Policies', 'Pre Acquisition', 'Credit Risk']"
+267,Assistant Manager,"['Assistant Manager PED', 'Team Manager PED']"
+268,Web Developer,"['Rails', 'Ruby']"
+269,Customer Support,"['Customer Executive', 'Customer Care']"
+270,Electrical Technician,"['ITI', 'Electrician', 'Fitter', 'ITI Electrical']"
+271,IT Support Analyst,"['Willingness to Learn', 'Night Shifts', 'Positive Attitude', 'Monitoring', 'Excellent Communication Skills', 'Management', 'UNIX', 'Production Support']"
+272,Bloomberg Terminal Specialist,['Bloomberg Terminal']
+273,System Administrator,"['SSH', 'Redhat', 'Apache', 'Hadoop', 'MySQL', 'Linux Administration', 'AWS', 'NAGIOS', 'Ubuntu']"
+274,Regional Sales Manager,['Events']
+275,UI/UX Developer,"['Application Development', 'JSON', 'HTML', 'User Interface', 'UI Design']"
+276,VP of Engineering,"['Algorithm', 'VP Engineering', 'Technical Solutions']"
+277,Oracle Database Administrator,"['Oracle Development', 'Oracle Database 9i']"
+278,Quality Assurance Specialist,"['QMS', 'Auditing', 'Product Quality', 'Quality Assurance', 'Quality Engineering']"
+279,Medical Coder,['Pharma Jobs']
+280,Sales Manager,"['Sales Manager', 'Business Development']"
+281,Pre Acquisition Analyst,"['Risk', 'Pre Acquisition', 'Credit Risk', 'Credit Underwriting', 'Credit Policies']"
+282,Medical Coder,"['Pharma Jobs', 'Medical Coding Jobs', 'Medical Coder']"
+283,Customer Support,"['Customer Care', 'Customer Support', 'Customer Executive']"
+284,Customer Care Executive,"['CSE', 'BPO', 'Interviewing', 'Inbound', 'Voice Process', 'Communication Skills', 'Hiring']"
+285,IT Support Specialist,"['Javascript', 'Classic ASP', 'ASP.Net', 'JQuery', 'IIS', 'C#', 'MS SQL Server', 'JSON', 'MSBuild']"
+286,Customer Care Executive,['Interviewing']
+287,Business Growth Manager,"['Marketing Operations', 'Business Development', 'Key Account Management']"
+288,Pre Acquisition Analyst,"['Risk', 'Credit Risk']"
+289,Gas Turbine Engineer,['Gas Turbine']
+290,Regional Sales Manager,"['CRM', 'Regional Sales', 'PR', 'Events', 'Strategy']"
+291,Primary School Teacher,"['Mathematics', 'Primary Teacher', 'Science', 'Teaching']"
+292,UI/UX Developer,"['Java', 'Application Development', 'UI Design', 'HTML', 'XML', 'J2EE']"
+293,Regional Sales Manager,"['PR', 'CRM', 'Brand Building', 'Strategy']"
+294,Company Secretary,['Company Secretary']
+295,Taxation Specialist,"['Transfer Pricing Manager', 'Indian GAAP']"
+296,Front Office Coordinator,"['Front Office Executive', 'Guest Relation Executive', 'FOE', 'Front Desk Executive', 'Receptionist']"
+297,Web Developer,"['Ruby on Rails', 'Ruby', 'AngularJS', 'Rails']"
+298,Java Developer,"['PL/SQL', 'Consultant', 'Implementation', 'Java']"
+299,Java Developer,"['Java', 'JSP', 'HTML', 'Travel', 'J2EE']"
+300,Regional Sales Manager,"['Regional Sales', 'CRM']"
+301,Technical Project Manager,['Agile methodologies']
+302,Java Developer,"['EJB', 'Java', 'Content Management', 'ATG', 'Merchandising', 'J2EE', 'HTML', 'Coding']"
+303,Software Engineer,"['RTL Compiler', 'ICC', 'Physical Design', 'P&R', 'Timing Closure', 'Prime Time', 'SoC Encounter']"
+304,Pharmaceuticals Expert,"['Tablets', 'Solid Oral Dosage']"
+305,Taxation Specialist,['Indian GAAP']
+306,OpenText Specialist,"['Invoice Management', 'SAP_ALV', 'OpenText', 'Purchase Orders', 'Media Management']"
+307,VP of Engineering,"['Data Structures', 'Technical Solutions']"
+308,Pharmaceuticals Expert,"['Pellets', 'Team Handling', 'Solid Oral Dosage']"
+309,Data Scientist,"['Data analysis', 'Statistics', 'Machine learning']"
+310,Assistant Manager,['AM PED']
+311,Training Coordinator,"['Training Management', 'Policies', 'Recruitment', 'Publicity', 'CSR']"
+312,Sales Representative,"['Life Insurance', 'Direct Marketing', 'Selling Skills', 'Mass Mailing']"
+313,Regional Sales Manager,['Marketing Support']
+314,Application Support Manager,['Application Support Delivery Manager']
+315,Java Developer,"['EJB', 'HTML', 'J2EE', 'JSP', 'Coding', 'ATG', 'Content Management', 'Merchandising', 'Java', 'Travel']"
+316,UI/UX Developer,"['XML', 'Java', 'UI Design', 'JSP', 'HTML', 'JavaScript', 'J2EE']"
+317,Data Scientist,['Machine learning']
+318,IT Deployment Specialist,['Google Application Deployment']
+319,Sales Representative,"['Sales', 'Direct Marketing', 'Mass Mailing', 'Life Insurance', 'Selling Skills']"
+320,Finance Application Designer,"['Banking Application', 'Data Design']"
+321,Front Office Coordinator,"['FOE', 'Front Office Executive']"
+322,X-Ray Technician,['USG']
+323,Java Developer,"['HTML', 'Content Management']"
+324,Recruitment Specialist,"['US IT Recruitment', 'US Recruitment', 'US IT Staffing']"
+325,Pharmaceuticals Expert,"['Solid Oral Dosage', 'Tablets', 'Team Handling', 'NDDS']"
+326,Recruitment Specialist,"['US Recruitment', 'US IT Recruitment', 'US IT Staffing']"
+327,IT Support Specialist,['WCF']
+328,Primary School Teacher,"['Mathematics', 'Teaching', 'Primary Teacher', 'Science']"
+329,PPC Executive,"['PPC Executive', 'Production Planning Control Executive']"
+330,X-Ray Technician,"['X-Ray', 'CT']"
+331,Data Scientist,"['Statistics', 'Machine learning', 'Data analysis']"
+332,Medical Coder,"['Nursing Jobs', 'Biotechnology Jobs', 'Biochemistry Jobs', 'Pharma Jobs', 'Medical Coder']"
+333,Java Developer,['Experience']
+334,Sales Representative,['Mass Mailing']
+335,Data Scientist,"['Data analysis', 'Machine learning', 'Statistics']"
+336,Assistant Manager,"['Assistant Manager PED', 'Team Leader PED', 'AM PED']"
+337,IT Analyst,['FX']
+338,Grass GIS Specialist,['GRASS GIS']
+339,Pharmaceuticals Expert,"['Solid Oral Dosage', 'Tablets', 'Pellets', 'Capsule', 'Team Handling']"
+340,IT Support Analyst,['Night Shifts']
+341,OpenText Specialist,"['Digital Media', 'SAP Workflow']"
+342,IT Security Auditor,"['Cyber Security', 'IT Audit', 'IT Risk', 'System Audit', 'ITGC']"
+343,Java Developer,"['ATG', 'EJB', 'HTML']"
+344,VP of Engineering,"['Data Structures', 'Algorithm']"
+345,Finance Application Designer,"['Finance Module', 'Financial Implementation', 'Data Design', 'Banking Application']"
+346,Software Engineer,"['Programming (e.g., Python, Java, C++)']"
+347,Sales Representative,"['Mass Mailing', 'Selling Skills', 'Direct Marketing', 'Sales']"
+348,Company Secretary,['Company Secretary']
+349,Network Administrator,"['UNIX', 'DHCP', 'DNS', 'SAN', 'NAS', 'L2', 'Solaris', 'Troubleshooting', 'WAN']"
+350,PPC Executive,['PPC Executive']
+351,Tele-Marketer,['Tele-Sales']
+352,Regional Sales Manager,"['Strategy', 'Marketing Support', 'Regional Sales']"
+353,Java Developer,['Coding']
+354,Primary School Teacher,"['Science', 'Primary Teacher']"
+355,Sales Manager,['Products']
+356,Quality Assurance Specialist,"['Product Quality', 'ISO 9001', 'Quality Assurance', 'Auditing']"
+357,Grass GIS Specialist,['GRASS GIS']
+358,Quality Assurance Specialist,"['Product Quality', 'Auditing', 'Process Audit', 'Marketing']"
+359,Application Support Manager,['Application Support Delivery Manager']
+360,Oracle Database Administrator,"['Oracle Database 9i', 'Oracle Development', 'Software Development', 'MySQL Server', 'Technical Specifications']"
+361,Pre Acquisition Analyst,"['Credit Underwriting', 'Pre Acquisition']"
+362,Pre Acquisition Analyst,"['Credit Policies', 'Credit Risk', 'Pre Acquisition', 'Credit Underwriting', 'Risk']"
+363,Data Scientist,"['Machine learning', 'Statistics', 'Data analysis']"
+364,Software Engineer,"['RTL Compiler', 'Timing Closure', 'IR Drop', 'SoC Encounter', 'Physical Design', 'Innovus', 'P&R']"
+365,IT Deployment Specialist,['Google Application Deployment']
+366,OpenText Specialist,"['DAM', 'Purchase Orders', 'Invoice Management', 'OpenText', 'SAP_ALV', 'Digital Media', 'SAP Workflow']"
+367,UI/UX Developer,"['UI Design', 'XML', 'JSON', 'HTML', 'J2EE', 'Java']"
+368,Assistant Manager,"['AM PED', 'Senior Executive PED', 'Team Leader PED']"
+369,PPC Executive,"['Production Planning Control Executive', 'PPC Executive']"
+370,Training Coordinator,"['Recruitment', 'Policies']"
+371,Digital Marketing Specialist,"['Web Analytics', 'CRM', 'Data Strategy', 'Targeting', 'Web Technologies']"
+372,Tele-Marketer,"['Telemarketing', 'Call Center', 'Tele-Sales', 'Tele-Marketing']"
+373,Oracle Database Administrator,['Oracle Development']
+374,Digital Marketing Specialist,"['CRM', 'Web Technologies']"
+375,Java Developer,"['Travel', 'JSP', 'Coding']"
+376,Network Administrator,"['WAN', 'Solaris', 'UNIX', 'SAN']"
+377,Company Secretary,['Company Secretary']
+378,US Staffing Specialist,"['Client Acquisition', 'US Staffing']"
+379,Front Office Coordinator,"['Receptionist', 'Front Office Executive', 'Front Desk Executive', 'FOE', 'Guest Relation Executive']"
+380,Data Scientist,"['Statistics', 'Machine learning']"
+381,US Staffing Specialist,"['US Staffing', 'Client Acquisition']"
+382,Software Engineer,"['Innovus', 'Prime Time']"
+383,Tele-Marketer,"['Call Center', 'Telemarketing', 'Tele-Marketing', 'Tele-Sales']"
+384,Application Support Manager,['Application Support Delivery Manager']
+385,IT Support Specialist,"['Classic ASP', 'IIS', 'JSON', 'WCF', 'MSBuild', 'Javascript']"
+386,Front Office Coordinator,"['Front Desk Executive', 'FOE', 'Guest Relation Executive']"
+387,Recruitment Specialist,"['US IT Recruitment', 'US IT Staffing', 'US Recruitment']"
+388,Software Engineer,"['Problem-solving', 'Algorithms', 'Programming (e.g., Python, Java, C++)']"
+389,System Administrator,"['Ubuntu', 'Linux Administration']"
+390,Digital Marketing Specialist,"['Web Technologies', 'Marketing Strategy']"
+391,Gas Turbine Engineer,"['Manufacturing Engineering', 'Gas Turbine']"
+392,Gas Turbine Engineer,"['Manufacturing Engineering', 'Gas Turbine']"
+393,Finance Analyst,['Finance and Tax']
+394,Regional Sales Manager,"['Events', 'Regional Sales']"
+395,Assistant Manager,"['AM PED', 'Senior Executive PED']"
+396,US Staffing Specialist,['Client Acquisition']
+397,Bloomberg Terminal Specialist,['Bloomberg Terminal']
+398,System Administrator,['Apache']
+399,Web Developer,"['Front-end frameworks (e.g., React)', 'HTML', 'JavaScript']"
